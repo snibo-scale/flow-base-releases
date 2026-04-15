@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Scale Flow Controller
+Comment=Scale Flow Binary Application
+Exec=/home/i2rt/scale-flow-controller-pi
+Icon=utilities-terminal
+Terminal=true
+Type=Application
