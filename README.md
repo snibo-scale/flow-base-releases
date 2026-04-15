@@ -1,6 +1,6 @@
 # flow-base-releases
 
-`wget https://github.com/snibo-scale/flow-base-releases/releases/latest/download/scale-flow-controller-pi`
+`wget https://github.com/snibo-scale/flow-base-releases/releases/latest/download/scale-flow-controller-pi -O scale-flow-controller-pi`
 
 `chmod +x scale-flow-controller-pi`
 
