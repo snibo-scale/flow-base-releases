@@ -1,0 +1,11 @@
+[Service]
+ExecStart=/home/pi/scale-flow-controller-pi
+WorkingDirectory=/home/pi
+User=pi
+
+# Disable automatic restarting
+Restart=no
+# (Delete the RestartSec line if it is still there)
+
+StandardOutput=journal
+StandardError=journal
