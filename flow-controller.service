@@ -1,7 +1,7 @@
 [Service]
-ExecStart=/home/pi/scale-flow-controller-pi
-WorkingDirectory=/home/pi
-User=pi
+ExecStart=/home/i2rt/scale-flow-controller-pi
+WorkingDirectory=/home/i2rt
+User=i2rt
 
 # Disable automatic restarting
 Restart=no
